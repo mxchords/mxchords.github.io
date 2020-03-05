@@ -16,8 +16,8 @@ description: >
   providing documentation and blog post pages.
 lang: en-US
 
-baseurl: "/home" # the subpath of your site, e.g. /blog/
-url: https://chords.dev/home # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: https://chords.dev/ # the base hostname & protocol for your site
 git_address: https://github.com/mxchords/mxchords.github.io
 git_edit_address: https://github.com/mxchords/mxchords.github.io/blob/gh-pages
 
