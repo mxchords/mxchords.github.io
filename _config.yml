@@ -9,20 +9,21 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+title: Jekyll Doc Theme
+email: your-email@domain.com
+description: >
+  Jekyll Template for Project Websites
+  providing documentation and blog post pages.
+lang: en-US
+
+baseurl: "/home" # the subpath of your site, e.g. /blog/
+url: https://chords.dev/home # the base hostname & protocol for your site
+git_address: https://github.com/mxchords/mxchords.github.io
+git_edit_address: https://github.com/mxchords/mxchords.github.io/blob/gh-pages
+
+# theme options from https://bootswatch.com/3/
+# comment out this to use default Bootstrap
+bootwatch: paper # cerulean cosmo custom cyborg darkly flatly journal lumen readable sandstone simplex slate solar spacelab superhero united yeti
 
 # Build settings
 markdown: kramdown
