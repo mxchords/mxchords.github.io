@@ -20,6 +20,8 @@ Lorem spicy jalapeno bacon ipsum dolor amet chuck sausage brisket turducken pork
 <img align="left" src="../assets/be-black.png" alt="back end" title="back end" width="65" hspace="10"/>
 <br/><br/><br/><br/>
 
+### Test Code Blocks:
+
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
