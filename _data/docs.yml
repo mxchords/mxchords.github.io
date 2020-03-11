@@ -1,20 +1,17 @@
-# - title: MX Micro Apps
-#   docs:
-#   - home
-#   - themes
-#   - customization
-#   - test
-
-# - title: Examples
-#   docs:
-#   - cheatsheet
-#   - font-awesome
-#   - bootstrap
+- title: Getting Started
+   docs:
+   - what-are-mx-microapps
+   - quickstart
+   - architecture
+   - faqs
+   - system-requirements
 
 - title: Multi-Touchpoint UX
   docs:
   - ui-card
   - mx-card
+
+-title: Wearables
   - watch-experience
   - watch-card
   - watch-action
@@ -41,6 +38,7 @@
   docs:
   - image-recognition
   - ocr-scan
+  - ml-model-lifecycle
 
 - title: Experience Management
   docs:
