@@ -5,6 +5,14 @@
   - customization
   - test
 
+- title: Multi-Touchpoint UX
+  docs:
+  - UI Card
+  - MX Card
+  - Watch Experience
+  - Watch Card
+  - Watch Action
+
 - title: Examples
   docs:
   - cheatsheet
