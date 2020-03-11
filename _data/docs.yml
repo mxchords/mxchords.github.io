@@ -1,20 +1,53 @@
-- title: MX Micro Apps
-  docs:
-  - home
-  - themes
-  - customization
-  - test
+# - title: MX Micro Apps
+#   docs:
+#   - home
+#   - themes
+#   - customization
+#   - test
+
+# - title: Examples
+#   docs:
+#   - cheatsheet
+#   - font-awesome
+#   - bootstrap
 
 - title: Multi-Touchpoint UX
   docs:
-  - UI Card
-  - MX Card
-  - Watch Experience
-  - Watch Card
-  - Watch Action
+  - ui-card
+  - mx-card
+  - watch-experience
+  - watch-card
+  - watch-action
 
-- title: Examples
+- title: Geolocation
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+  - geo-location
+  - geo-fence
+
+- title: Immersive Experience AR/VR
+  docs:
+  - immersive-experience
+  - 3d-model
+  - 2d-model
+  - unity-experience
+
+- title: Chat and Voice
+  docs:
+  - chat-client
+  - chat-listener
+  - voice-to-chat
+
+- title: ML & AI Enabled
+  docs:
+  - image-recognition
+  - ocr-scan
+
+- title: Experience Management
+  docs:
+  - star-rating
+  - facial-sent
+
+- title: Device Feature Integration
+  docs:
+  - search-int
+  - assistant-int
