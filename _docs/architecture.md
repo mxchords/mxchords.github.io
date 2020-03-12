@@ -1,6 +1,6 @@
 ---
-title: What Are MX MicroApps
-permalink: /docs/what-are-mx-microapps/
+title: MX Cards Architecture
+permalink: /docs/architecture/
 ---
 
 ## Sub Heading

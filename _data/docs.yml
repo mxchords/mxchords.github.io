@@ -1,23 +1,20 @@
 - title: Getting Started
   docs:
     - home
-#   - themes
-#   - customization
-#   - test
-
-# - title: Examples
-#   docs:
-#   - cheatsheet
-#   - font-awesome
-#   - bootstrap
+    - quickstart
+    - architecture
+    - faqs
+    - system-requirements
 
 - title: Multi-Touchpoint UX
   docs:
     - ui-card
     - mx-card
+
+- title: Wearables
+  docs:
     - watch-experience
     - watch-card
-    - watch-action
 
 - title: Geolocation
   docs:
@@ -35,19 +32,58 @@
   docs:
     - chat-client
     - chat-listener
-    - voice-to-chat
+    - voice-to-text
 
 - title: ML & AI Enabled
   docs:
     - image-recognition
     - ocr-scan
+    - ml-model-lifecycle
 
 - title: Experience Management
   docs:
+    - qualtrics-survey
     - star-rating
     - facial-sent
 
-- title: Device Feature Integration
+- title: iOS Specific
   docs:
-    - search-int
-    - assistant-int
+    - ios-custom-keyboard
+    - ios-imessage
+    - ios-siri
+    - ios-notification-service
+    - ios-spotlight
+    - ios-today-view
+
+- title: Android Specific
+  docs:
+    - todo
+
+- title: Web Specific
+  docs:
+    - pwa
+    - offline-web
+
+- title: Work Zone MicroApps
+  docs:
+    - todo
+
+- title: S/4HANA MicroApps
+  docs:
+    - todo
+
+- title: C/4HANA MicroApps
+  docs:
+    - todo
+
+- title: SuccessFactors MicroApps
+  docs:
+    - todo
+
+- title: Miscellaneous MicroApps
+  docs:
+    - barcode-scan
+    - audio-player
+    - video-player
+    - file-uploader
+    - theme-manager

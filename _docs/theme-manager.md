@@ -1,19 +1,19 @@
 ---
-title: Watch Card
-permalink: /docs/watch-card/
+title: Theme & Branding Manager
+permalink: /docs/theme-manager/
 ---
 
-#### A pre-built configurable watch UI screen
+#### Harmonize theming and branding across MX channels
 
 <div style="display: flex; flex-wrap: wrap;">
 <img src="../assets/apple-black.png" title="Supports iOS apps" alt="iOS apps" width="65" style="margin: 10px 10px 0 0;" />
 <img src="../assets/android-black.png" title="Supports Android apps" alt="Android apps" width="65" style="margin: 10px 10px 0 0;" />
-<img src="../assets/js-grey.png" title="Does not supports web apps" alt="No web apps" width="65" style="margin: 10px 10px 0 0;"  />
+<img src="../assets/js-black.png" title="Supports web apps" alt="Web apps" width="65" style="margin: 10px 10px 0 0;" />
 <img src="../assets/watch-black.png" title="Supports wearable apps" alt="Wearable apps" width="65" style="margin: 10px 10px 0 0;" />
-<img src="../assets/chat-grey.png" title="Does not support chat or voice apps" alt="No conversational apps" width="65" style="margin: 10px 10px 0 0;" />
-<img src="../assets/ar-grey.png" title="Does not support immersive apps" alt="No immersive apps" width="65" style="margin: 10px 10px 0 0;" />
+<img src="../assets/chat-black.png" title="Supports chat or voice apps" alt="Conversational apps" width="65" style="margin: 10px 10px 0 0;" />
+<img src="../assets/ar-black.png" title="Supports immersive apps" alt="Immersive apps" width="65" style="margin: 10px 10px 0 0;" />
 <img src="../assets/fe-black.png" title="Has front-end components" alt="Front end" width="65" style="margin: 10px 10px 0 0;" />
-<img src="../assets/be-grey.png" title="Does not require back-end components" alt="No back end" width="65" style="margin: 10px 10px 0 0;" />
+<img src="../assets/be-black.png" title="Requires back-end components" alt="Back end" width="65" style="margin: 10px 10px 0 0;" />
 </div>
 
 ### Description
@@ -22,17 +22,17 @@ Lorem spicy jalapeno bacon ipsum dolor amet chuck sausage brisket turducken pork
 
 ### Parameters
 
-| Parameter   | Type   | Description                          |
-| ----------- | ------ | ------------------------------------ |
-| Screen Type | Enum   | lcatra pork chop turkey meatball ... |
-| Parm2       | Number | hop ribeye porchetta shoulder ...    |
+| Parameter | Type   | Description                          |
+| --------- | ------ | ------------------------------------ |
+| Parm1     | String | lcatra pork chop turkey meatball ... |
+| Parm2     | Number | hop ribeye porchetta shoulder ...    |
 
 ### Events
 
-| Parameter  | Type | Description         |
-| ---------- | ---- | ------------------- |
-| Navigation | Out  | Navigaton event ... |
-| Submit     | Out  | Submit event ...    |
+| Parameter | Type | Description                           |
+| --------- | ---- | ------------------------------------- |
+| Event     | In   | biltong chuck pastrami alcatra ...    |
+| Event2    | Out  | Brisket pork meatball frankfurter ... |
 
 ### iOS
 

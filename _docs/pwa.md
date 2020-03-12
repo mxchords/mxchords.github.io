@@ -1,15 +1,15 @@
 ---
-title: Watch Card
-permalink: /docs/watch-card/
+title: Progressive Web App (PWA)
+permalink: /docs/pwa/
 ---
 
-#### A pre-built configurable watch UI screen
+#### Make your web app a PWA
 
 <div style="display: flex; flex-wrap: wrap;">
-<img src="../assets/apple-black.png" title="Supports iOS apps" alt="iOS apps" width="65" style="margin: 10px 10px 0 0;" />
-<img src="../assets/android-black.png" title="Supports Android apps" alt="Android apps" width="65" style="margin: 10px 10px 0 0;" />
-<img src="../assets/js-grey.png" title="Does not supports web apps" alt="No web apps" width="65" style="margin: 10px 10px 0 0;"  />
-<img src="../assets/watch-black.png" title="Supports wearable apps" alt="Wearable apps" width="65" style="margin: 10px 10px 0 0;" />
+<img src="../assets/apple-grey.png" title="Does not support iOS apps" alt="No iOS apps" width="65" style="margin: 10px 10px 0 0;" />
+<img src="../assets/android-grey.png" title="Does no support Android apps" alt="No Android apps" width="65" style="margin: 10px 10px 0 0;" />
+<img src="../assets/js-black.png" title="Supports web apps" alt="Web apps" width="65" style="margin: 10px 10px 0 0;" />
+<img src="../assets/watch-grey.png" title="Does not support wearable apps" alt="No wearable apps" width="65" style="margin: 10px 10px 0 0;" />
 <img src="../assets/chat-grey.png" title="Does not support chat or voice apps" alt="No conversational apps" width="65" style="margin: 10px 10px 0 0;" />
 <img src="../assets/ar-grey.png" title="Does not support immersive apps" alt="No immersive apps" width="65" style="margin: 10px 10px 0 0;" />
 <img src="../assets/fe-black.png" title="Has front-end components" alt="Front end" width="65" style="margin: 10px 10px 0 0;" />
@@ -22,10 +22,10 @@ Lorem spicy jalapeno bacon ipsum dolor amet chuck sausage brisket turducken pork
 
 ### Parameters
 
-| Parameter   | Type   | Description                          |
-| ----------- | ------ | ------------------------------------ |
-| Screen Type | Enum   | lcatra pork chop turkey meatball ... |
-| Parm2       | Number | hop ribeye porchetta shoulder ...    |
+| Parameter | Type   | Description                          |
+| --------- | ------ | ------------------------------------ |
+| Card Type | Enum   | lcatra pork chop turkey meatball ... |
+| Parm2     | Number | hop ribeye porchetta shoulder ...    |
 
 ### Events
 
