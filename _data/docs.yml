@@ -1,51 +1,53 @@
 - title: Getting Started
-   docs:
-   - what-are-mx-microapps
-   - quickstart
-   - architecture
-   - faqs
-   - system-requirements
+  docs:
+    - home
+#   - themes
+#   - customization
+#   - test
+
+# - title: Examples
+#   docs:
+#   - cheatsheet
+#   - font-awesome
+#   - bootstrap
 
 - title: Multi-Touchpoint UX
   docs:
-  - ui-card
-  - mx-card
-
--title: Wearables
-  - watch-experience
-  - watch-card
-  - watch-action
+    - ui-card
+    - mx-card
+    - watch-experience
+    - watch-card
+    - watch-action
 
 - title: Geolocation
   docs:
-  - geo-location
-  - geo-fence
+    - geo-location
+    - geo-fence
 
 - title: Immersive Experience AR/VR
   docs:
-  - immersive-experience
-  - 3d-model
-  - 2d-model
-  - unity-experience
+    - immersive-experience
+    - 3d-model
+    - 2d-model
+    - unity-experience
 
 - title: Chat and Voice
   docs:
-  - chat-client
-  - chat-listener
-  - voice-to-chat
+    - chat-client
+    - chat-listener
+    - voice-to-chat
 
 - title: ML & AI Enabled
   docs:
-  - image-recognition
-  - ocr-scan
-  - ml-model-lifecycle
+    - image-recognition
+    - ocr-scan
 
 - title: Experience Management
   docs:
-  - star-rating
-  - facial-sent
+    - star-rating
+    - facial-sent
 
 - title: Device Feature Integration
   docs:
-  - search-int
-  - assistant-int
+    - search-int
+    - assistant-int
