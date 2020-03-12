@@ -3,7 +3,7 @@ title: File Uploader
 permalink: /docs/file-uploader/
 ---
 
-#### Audio Player
+#### File Uploader
 
 <div style="display: flex; flex-wrap: wrap;">
 <img src="../assets/apple-black.png" title="Supports iOS apps" alt="iOS apps" width="65" style="margin: 10px 10px 0 0;" />
