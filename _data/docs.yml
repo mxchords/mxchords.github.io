@@ -1,11 +1,3 @@
-- title: Getting Started
-  docs:
-    - home
-    - quickstart
-    - architecture
-    - faqs
-    - system-requirements
-
 - title: Multi-Touchpoint UX
   docs:
     - ui-card
